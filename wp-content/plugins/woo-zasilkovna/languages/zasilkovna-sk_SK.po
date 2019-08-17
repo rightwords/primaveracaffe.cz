@@ -1,0 +1,1197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-18 17:36+0100\n"
+"PO-Revision-Date: 2018-03-18 17:54+0100\n"
+"Last-Translator: Lukáš Prelovský <info@nadupanyweb.sk>\n"
+"Language-Team: Simple <info@themes4all.com>\n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-zasilkovna-admin.php:114
+#: ../admin/class-zasilkovna-admin.php:115
+msgid "Woo plugins"
+msgstr "Woo plugins"
+
+#: ../admin/class-zasilkovna-admin.php:128
+#: ../admin/class-zasilkovna-admin.php:129
+#: ../admin/class-zasilkovna-admin.php:179
+#: ../includes/class-zasilkovna-shipping.php:47
+#: ../includes/class-zasilkovna-shipping.php:95
+#: ../includes/class-zasilkovna-shipping.php:120
+msgid "Zásilkovna"
+msgstr "Zásielkovňa"
+
+#: ../admin/class-zasilkovna-admin.php:176
+msgid "Barcode"
+msgstr ""
+
+#: ../admin/views/control-xml.php:2
+msgid "Zásilkovna nastavení"
+msgstr "Zásilkovna nastavenie"
+
+#: ../admin/views/control-xml.php:101
+#, fuzzy
+#| msgid "Zásilkovna nastavení"
+msgid "Hlavní nastavení"
+msgstr "Zásilkovna nastavenie"
+
+#: ../admin/views/control-xml.php:106
+#, fuzzy
+#| msgid "Dopravce"
+msgid "Dopravci"
+msgstr "Dopravca"
+
+#: ../admin/views/control-xml.php:111
+msgid "Česko"
+msgstr ""
+
+#: ../admin/views/control-xml.php:116
+#, fuzzy
+#| msgid "Slovenská pošta"
+msgid "Slovensko"
+msgstr "Slovenská pošta"
+
+#: ../admin/views/control-xml.php:121
+#, fuzzy
+#| msgid "Polská pošta"
+msgid "Polsko"
+msgstr "Polská pošta"
+
+#: ../admin/views/control-xml.php:126
+#, fuzzy
+#| msgid "Maďarská pošta"
+msgid "Maďarsko"
+msgstr "Maďarská pošta"
+
+#: ../admin/views/control-xml.php:131
+#, fuzzy
+#| msgid "Německá pošta"
+msgid "Německo"
+msgstr "Nemecká pošta"
+
+#: ../admin/views/control-xml.php:136
+#, fuzzy
+#| msgid "Rakouská pošta"
+msgid "Rakousko"
+msgstr "Rakúska pošta"
+
+#: ../admin/views/control-xml.php:141
+msgid "Rumunsko"
+msgstr ""
+
+#: ../admin/views/control-xml.php:146
+msgid "Bulharsko"
+msgstr ""
+
+#: ../admin/views/parts/at.php:24 ../admin/views/parts/bl.php:24
+#: ../admin/views/parts/cr.php:70 ../admin/views/parts/de.php:24
+#: ../admin/views/parts/hu.php:64 ../admin/views/parts/main.php:124
+#: ../admin/views/parts/pl.php:60 ../admin/views/parts/ru.php:61
+#: ../admin/views/parts/sk.php:67 ../admin/views/parts/ua.php:24
+msgid "Save"
+msgstr "Uložiť"
+
+#: ../admin/views/parts/cr.php:17
+msgid "Zásilkovna Česká republika"
+msgstr "Zásilkovna Česká republika"
+
+#: ../admin/views/parts/cr.php:20 ../admin/views/parts/forms/111.php:8
+#: ../admin/views/parts/forms/1160.php:8 ../admin/views/parts/forms/1234.php:8
+#: ../admin/views/parts/forms/13.php:8 ../admin/views/parts/forms/131.php:8
+#: ../admin/views/parts/forms/132.php:8 ../admin/views/parts/forms/134.php:8
+#: ../admin/views/parts/forms/136.php:8 ../admin/views/parts/forms/1406.php:8
+#: ../admin/views/parts/forms/149.php:8 ../admin/views/parts/forms/151.php:8
+#: ../admin/views/parts/forms/153.php:8 ../admin/views/parts/forms/16.php:8
+#: ../admin/views/parts/forms/257.php:8 ../admin/views/parts/forms/272.php:8
+#: ../admin/views/parts/forms/590.php:8 ../admin/views/parts/forms/633.php:8
+#: ../admin/views/parts/forms/762.php:8 ../admin/views/parts/forms/763.php:8
+#: ../admin/views/parts/forms/80.php:8 ../admin/views/parts/forms/805.php:8
+#: ../admin/views/parts/forms/836.php:8
+#: ../admin/views/parts/forms/prices.php:15 ../admin/views/parts/hu.php:20
+#: ../admin/views/parts/main.php:133 ../admin/views/parts/pl.php:20
+#: ../admin/views/parts/ru.php:20 ../admin/views/parts/sk.php:20
+msgid "Položka"
+msgstr "Položka"
+
+#: ../admin/views/parts/cr.php:21 ../admin/views/parts/forms/111.php:9
+#: ../admin/views/parts/forms/1160.php:9 ../admin/views/parts/forms/1234.php:9
+#: ../admin/views/parts/forms/13.php:9 ../admin/views/parts/forms/131.php:9
+#: ../admin/views/parts/forms/132.php:9 ../admin/views/parts/forms/134.php:9
+#: ../admin/views/parts/forms/136.php:9 ../admin/views/parts/forms/1406.php:9
+#: ../admin/views/parts/forms/149.php:9 ../admin/views/parts/forms/151.php:9
+#: ../admin/views/parts/forms/153.php:9 ../admin/views/parts/forms/16.php:9
+#: ../admin/views/parts/forms/257.php:9 ../admin/views/parts/forms/272.php:9
+#: ../admin/views/parts/forms/590.php:9 ../admin/views/parts/forms/633.php:9
+#: ../admin/views/parts/forms/762.php:9 ../admin/views/parts/forms/763.php:9
+#: ../admin/views/parts/forms/80.php:9 ../admin/views/parts/forms/805.php:9
+#: ../admin/views/parts/forms/836.php:9 ../admin/views/parts/hu.php:21
+#: ../admin/views/parts/pl.php:21 ../admin/views/parts/ru.php:21
+#: ../admin/views/parts/sk.php:21
+msgid "Cena"
+msgstr "Cena"
+
+#: ../admin/views/parts/cr.php:24 ../admin/views/parts/forms/111.php:20
+#: ../admin/views/parts/forms/1160.php:20
+#: ../admin/views/parts/forms/1234.php:20 ../admin/views/parts/forms/13.php:24
+#: ../admin/views/parts/forms/131.php:20 ../admin/views/parts/forms/132.php:11
+#: ../admin/views/parts/forms/134.php:12 ../admin/views/parts/forms/136.php:12
+#: ../admin/views/parts/forms/1406.php:20 ../admin/views/parts/forms/149.php:20
+#: ../admin/views/parts/forms/151.php:20 ../admin/views/parts/forms/16.php:24
+#: ../admin/views/parts/forms/257.php:12 ../admin/views/parts/forms/272.php:20
+#: ../admin/views/parts/forms/590.php:20 ../admin/views/parts/forms/633.php:12
+#: ../admin/views/parts/forms/762.php:20 ../admin/views/parts/forms/763.php:20
+#: ../admin/views/parts/forms/80.php:20 ../admin/views/parts/forms/805.php:20
+#: ../admin/views/parts/forms/836.php:20 ../admin/views/parts/hu.php:24
+#: ../admin/views/parts/pl.php:24 ../admin/views/parts/ru.php:24
+#: ../admin/views/parts/sk.php:24
+msgid "Zásilka do 5kg"
+msgstr "Zásielka do 5kg"
+
+#: ../admin/views/parts/cr.php:28 ../admin/views/parts/forms/111.php:24
+#: ../admin/views/parts/forms/1160.php:24
+#: ../admin/views/parts/forms/1234.php:24 ../admin/views/parts/forms/13.php:28
+#: ../admin/views/parts/forms/131.php:24 ../admin/views/parts/forms/132.php:15
+#: ../admin/views/parts/forms/134.php:16 ../admin/views/parts/forms/136.php:16
+#: ../admin/views/parts/forms/1406.php:24 ../admin/views/parts/forms/149.php:24
+#: ../admin/views/parts/forms/151.php:24 ../admin/views/parts/forms/16.php:28
+#: ../admin/views/parts/forms/257.php:16 ../admin/views/parts/forms/272.php:24
+#: ../admin/views/parts/forms/590.php:24 ../admin/views/parts/forms/633.php:16
+#: ../admin/views/parts/forms/762.php:24 ../admin/views/parts/forms/763.php:24
+#: ../admin/views/parts/forms/80.php:24 ../admin/views/parts/forms/805.php:24
+#: ../admin/views/parts/forms/836.php:24 ../admin/views/parts/hu.php:28
+#: ../admin/views/parts/pl.php:28 ../admin/views/parts/ru.php:28
+#: ../admin/views/parts/sk.php:28
+msgid "Zásilka do 10kg"
+msgstr "Zásielka do 10kg"
+
+#: ../admin/views/parts/cr.php:32 ../admin/views/parts/forms/111.php:28
+#: ../admin/views/parts/forms/131.php:28 ../admin/views/parts/forms/149.php:28
+#: ../admin/views/parts/forms/272.php:32 ../admin/views/parts/hu.php:32
+#: ../admin/views/parts/pl.php:32 ../admin/views/parts/ru.php:32
+#: ../admin/views/parts/sk.php:32
+msgid "Zásilka do 20kg"
+msgstr ""
+
+#: ../admin/views/parts/cr.php:36 ../admin/views/parts/forms/1234.php:32
+#: ../admin/views/parts/forms/13.php:32 ../admin/views/parts/forms/131.php:32
+#: ../admin/views/parts/forms/132.php:19 ../admin/views/parts/forms/134.php:20
+#: ../admin/views/parts/forms/136.php:20 ../admin/views/parts/forms/1406.php:28
+#: ../admin/views/parts/forms/149.php:32 ../admin/views/parts/forms/151.php:32
+#: ../admin/views/parts/forms/153.php:12 ../admin/views/parts/forms/257.php:20
+#: ../admin/views/parts/forms/633.php:20 ../admin/views/parts/forms/763.php:28
+#: ../admin/views/parts/forms/805.php:28 ../admin/views/parts/forms/836.php:32
+#: ../admin/views/parts/hu.php:36 ../admin/views/parts/pl.php:36
+#: ../admin/views/parts/ru.php:36 ../admin/views/parts/sk.php:36
+msgid "Zásilka do 30kg"
+msgstr "Zásielka do 30kg"
+
+#: ../admin/views/parts/cr.php:40 ../admin/views/parts/forms/111.php:32
+#: ../admin/views/parts/forms/1160.php:32
+#: ../admin/views/parts/forms/1234.php:36 ../admin/views/parts/forms/13.php:36
+#: ../admin/views/parts/forms/131.php:44 ../admin/views/parts/forms/132.php:23
+#: ../admin/views/parts/forms/134.php:24 ../admin/views/parts/forms/136.php:24
+#: ../admin/views/parts/forms/149.php:44 ../admin/views/parts/forms/153.php:20
+#: ../admin/views/parts/forms/16.php:36 ../admin/views/parts/forms/257.php:24
+#: ../admin/views/parts/forms/272.php:36 ../admin/views/parts/forms/590.php:32
+#: ../admin/views/parts/forms/633.php:28 ../admin/views/parts/forms/762.php:32
+#: ../admin/views/parts/forms/836.php:36 ../admin/views/parts/hu.php:40
+#: ../admin/views/parts/pl.php:40 ../admin/views/parts/ru.php:40
+#: ../admin/views/parts/sk.php:40
+msgid "Příplatek za dobírku"
+msgstr "Príplatok za dobierku"
+
+#: ../admin/views/parts/cr.php:44 ../admin/views/parts/hu.php:44
+#: ../admin/views/parts/pl.php:44 ../admin/views/parts/ru.php:44
+#: ../admin/views/parts/sk.php:44
+msgid "Doprava zdarma od"
+msgstr ""
+
+#: ../admin/views/parts/cr.php:81 ../admin/views/parts/hu.php:75
+#: ../admin/views/parts/pl.php:71 ../admin/views/parts/ru.php:72
+#: ../admin/views/parts/sk.php:78
+msgid "Pobočky zásilkovny"
+msgstr "Pobočky Zásilkovny"
+
+#: ../admin/views/parts/cr.php:88 ../admin/views/parts/hu.php:82
+#: ../admin/views/parts/pl.php:78 ../admin/views/parts/ru.php:79
+#: ../admin/views/parts/sk.php:85
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/views/parts/cr.php:89 ../admin/views/parts/hu.php:83
+#: ../admin/views/parts/pl.php:79 ../admin/views/parts/ru.php:80
+#: ../admin/views/parts/sk.php:86
+msgid "Jméno"
+msgstr "Meno"
+
+#: ../admin/views/parts/cr.php:90 ../admin/views/parts/hu.php:84
+#: ../admin/views/parts/pl.php:80 ../admin/views/parts/ru.php:81
+#: ../admin/views/parts/sk.php:87
+msgid "Provozovna"
+msgstr "Prevádzkareň"
+
+#: ../admin/views/parts/cr.php:91 ../admin/views/parts/hu.php:85
+#: ../admin/views/parts/pl.php:81 ../admin/views/parts/ru.php:82
+#: ../admin/views/parts/sk.php:88
+msgid "Ulice"
+msgstr "Ulica"
+
+#: ../admin/views/parts/cr.php:92 ../admin/views/parts/hu.php:86
+#: ../admin/views/parts/pl.php:82 ../admin/views/parts/ru.php:83
+#: ../admin/views/parts/sk.php:89
+msgid "Město"
+msgstr "Mesto"
+
+#: ../admin/views/parts/cr.php:93 ../admin/views/parts/hu.php:87
+#: ../admin/views/parts/pl.php:83 ../admin/views/parts/ru.php:84
+#: ../admin/views/parts/sk.php:90
+msgid "PSČ"
+msgstr "PSČ"
+
+#: ../admin/views/parts/cr.php:94 ../admin/views/parts/hu.php:88
+#: ../admin/views/parts/main.php:165 ../admin/views/parts/pl.php:84
+#: ../admin/views/parts/ru.php:85 ../admin/views/parts/sk.php:91
+msgid "Země"
+msgstr "Zem"
+
+#: ../admin/views/parts/cr.php:113 ../admin/views/parts/hu.php:107
+#: ../admin/views/parts/pl.php:103 ../admin/views/parts/ru.php:104
+#: ../admin/views/parts/sk.php:110
+msgid "Aktualizovat pobočky"
+msgstr "Aktualizovať pobočky"
+
+#: ../admin/views/parts/forms/111.php:5
+#: ../includes/class-zasilkovna-helper.php:186
+msgid "Německá pošta"
+msgstr "Nemecká pošta"
+
+#: ../admin/views/parts/forms/111.php:12 ../admin/views/parts/forms/1160.php:12
+#: ../admin/views/parts/forms/1234.php:12 ../admin/views/parts/forms/131.php:12
+#: ../admin/views/parts/forms/1406.php:12 ../admin/views/parts/forms/149.php:12
+#: ../admin/views/parts/forms/151.php:12 ../admin/views/parts/forms/16.php:16
+#: ../admin/views/parts/forms/272.php:12 ../admin/views/parts/forms/590.php:12
+#: ../admin/views/parts/forms/762.php:12 ../admin/views/parts/forms/763.php:12
+#: ../admin/views/parts/forms/80.php:12 ../admin/views/parts/forms/805.php:12
+#: ../admin/views/parts/forms/836.php:12
+msgid "Zásilka do 1kg"
+msgstr "Zásielka do 1kg"
+
+#: ../admin/views/parts/forms/111.php:16 ../admin/views/parts/forms/1160.php:16
+#: ../admin/views/parts/forms/1234.php:16 ../admin/views/parts/forms/13.php:12
+#: ../admin/views/parts/forms/131.php:16 ../admin/views/parts/forms/1406.php:16
+#: ../admin/views/parts/forms/149.php:16 ../admin/views/parts/forms/151.php:16
+#: ../admin/views/parts/forms/16.php:20 ../admin/views/parts/forms/272.php:16
+#: ../admin/views/parts/forms/590.php:16 ../admin/views/parts/forms/762.php:16
+#: ../admin/views/parts/forms/763.php:16 ../admin/views/parts/forms/80.php:16
+#: ../admin/views/parts/forms/805.php:16 ../admin/views/parts/forms/836.php:16
+msgid "Zásilka do 2kg"
+msgstr "Zásielka do 2kg"
+
+#: ../admin/views/parts/forms/111.php:36 ../admin/views/parts/forms/1160.php:36
+#: ../admin/views/parts/forms/1234.php:40 ../admin/views/parts/forms/132.php:27
+#: ../admin/views/parts/forms/149.php:48 ../admin/views/parts/forms/16.php:40
+#: ../admin/views/parts/forms/272.php:40 ../admin/views/parts/forms/590.php:36
+#: ../admin/views/parts/forms/762.php:36 ../admin/views/parts/forms/836.php:40
+msgid "Příplatek za pojištění"
+msgstr ""
+
+#: ../admin/views/parts/forms/1160.php:5
+msgid "Ukrajina na adresu"
+msgstr ""
+
+#: ../admin/views/parts/forms/1160.php:28
+#: ../admin/views/parts/forms/1234.php:28 ../admin/views/parts/forms/151.php:28
+#: ../admin/views/parts/forms/16.php:32 ../admin/views/parts/forms/272.php:28
+#: ../admin/views/parts/forms/590.php:28 ../admin/views/parts/forms/762.php:28
+#: ../admin/views/parts/forms/836.php:28
+msgid "Zásilka do 15kg"
+msgstr ""
+
+#: ../admin/views/parts/forms/1234.php:5
+#: ../includes/class-zasilkovna-helper.php:198
+msgid "Bulharsko DPD"
+msgstr ""
+
+#: ../admin/views/parts/forms/13.php:5
+msgid "Česká Pošta"
+msgstr ""
+
+#: ../admin/views/parts/forms/13.php:16
+msgid "Zásilka do 3kg"
+msgstr ""
+
+#: ../admin/views/parts/forms/13.php:20
+msgid "Zásilka do 4kg"
+msgstr "Zásielka do 4kg"
+
+#: ../admin/views/parts/forms/13.php:40 ../admin/views/parts/forms/134.php:28
+#: ../admin/views/parts/forms/136.php:28 ../admin/views/parts/forms/153.php:24
+#: ../admin/views/parts/forms/257.php:28 ../admin/views/parts/forms/633.php:32
+#: ../admin/views/parts/forms/80.php:32
+msgid "Pojištění"
+msgstr ""
+
+#: ../admin/views/parts/forms/131.php:5
+msgid "Doručení na adresu SR"
+msgstr "Doručenie na adresu SR"
+
+#: ../admin/views/parts/forms/131.php:36 ../admin/views/parts/forms/149.php:36
+msgid "Zásilka do 40kg"
+msgstr ""
+
+#: ../admin/views/parts/forms/131.php:40 ../admin/views/parts/forms/149.php:40
+#: ../admin/views/parts/forms/153.php:16 ../admin/views/parts/forms/633.php:24
+msgid "Zásilka do 50kg"
+msgstr ""
+
+#: ../admin/views/parts/forms/132.php:5
+#: ../includes/class-zasilkovna-helper.php:195
+msgid "Expresné doručenie Bratislava"
+msgstr ""
+
+#: ../admin/views/parts/forms/134.php:5
+#: ../includes/class-zasilkovna-helper.php:183
+msgid "Expresní doručení Ostrava"
+msgstr ""
+
+#: ../admin/views/parts/forms/136.php:5
+#: ../includes/class-zasilkovna-helper.php:182
+msgid "Expresní doručení Brno"
+msgstr "Expresné doručení Brno"
+
+#: ../admin/views/parts/forms/1406.php:5
+#: ../includes/class-zasilkovna-helper.php:191
+msgid "Polsko DPD"
+msgstr ""
+
+#: ../admin/views/parts/forms/149.php:5
+#: ../includes/class-zasilkovna-helper.php:197
+msgid "Slovensko kurýr"
+msgstr ""
+
+#: ../admin/views/parts/forms/151.php:5
+#: ../includes/class-zasilkovna-helper.php:189
+msgid "Maďarsko Transoflex"
+msgstr ""
+
+#: ../admin/views/parts/forms/153.php:5
+msgid "In-time"
+msgstr "In-time"
+
+#: ../admin/views/parts/forms/16.php:5
+#: ../includes/class-zasilkovna-helper.php:196
+msgid "Slovenská pošta"
+msgstr "Slovenská pošta"
+
+#: ../admin/views/parts/forms/16.php:12
+msgid "Zásilka do 100 g"
+msgstr "Zásielka do 100"
+
+#: ../admin/views/parts/forms/257.php:5
+#: ../includes/class-zasilkovna-helper.php:184
+msgid "Expresní doručení Praha"
+msgstr ""
+
+#: ../admin/views/parts/forms/272.php:5
+#: ../includes/class-zasilkovna-helper.php:190
+msgid "Polská pošta"
+msgstr "Polská pošta"
+
+#: ../admin/views/parts/forms/590.php:5
+msgid "Rumunsko Cargus"
+msgstr ""
+
+#: ../admin/views/parts/forms/633.php:5
+#: ../includes/class-zasilkovna-helper.php:181
+msgid "Česká republika DPD"
+msgstr ""
+
+#: ../admin/views/parts/forms/762.php:5
+#: ../includes/class-zasilkovna-helper.php:193
+msgid "Rumunsko FAN"
+msgstr ""
+
+#: ../admin/views/parts/forms/763.php:5
+#: ../includes/class-zasilkovna-helper.php:187
+msgid "Maďarská pošta"
+msgstr "Maďarská pošta"
+
+#: ../admin/views/parts/forms/80.php:5
+#: ../includes/class-zasilkovna-helper.php:185
+msgid "Rakouská pošta"
+msgstr "Rakúska pošta"
+
+#: ../admin/views/parts/forms/80.php:28
+#: ../includes/class-wc-gateway-dobirka.php:76
+msgid "Dobírka"
+msgstr "Dobierka"
+
+#: ../admin/views/parts/forms/805.php:5
+#: ../includes/class-zasilkovna-helper.php:188
+msgid "Maďarsko DPD"
+msgstr ""
+
+#: ../admin/views/parts/forms/836.php:5
+#: ../includes/class-zasilkovna-helper.php:192
+msgid "Rumunsko DPD"
+msgstr ""
+
+#: ../admin/views/parts/forms/prices.php:6
+msgid "Nastavení cen za dopravu"
+msgstr "Nastavenie cien za dopravu"
+
+#: ../admin/views/parts/forms/prices.php:12 ../admin/views/parts/main.php:130
+msgid "Kurzy měn"
+msgstr "Kurzy mien"
+
+#: ../admin/views/parts/forms/prices.php:16 ../admin/views/parts/main.php:134
+msgid "Kurz"
+msgstr "Kurz"
+
+#: ../admin/views/parts/forms/prices.php:19 ../admin/views/parts/main.php:137
+msgid "Euro"
+msgstr "Euro"
+
+#: ../admin/views/parts/forms/prices.php:23 ../admin/views/parts/main.php:141
+msgid "Forint"
+msgstr "Forint"
+
+#: ../admin/views/parts/forms/prices.php:27 ../admin/views/parts/main.php:145
+msgid "Zlotý"
+msgstr "Zlotý"
+
+#: ../admin/views/parts/forms/prices.php:34 ../admin/views/parts/main.php:155
+#: ../admin/views/parts/main.php:231
+#: ../admin/views/parts/shipping_methods.php:34
+msgid "Uložit"
+msgstr "Uložiť"
+
+#: ../admin/views/parts/hu.php:17 ../admin/views/parts/sk.php:17
+msgid "Zásilkovna Slovenská republika"
+msgstr "Zásilkovna Slovenská republika"
+
+#: ../admin/views/parts/main.php:31
+msgid "Licenční klíč"
+msgstr "Licenčný kľúč"
+
+#: ../admin/views/parts/main.php:38
+msgid "Api klíč"
+msgstr "Api kľúč"
+
+#: ../admin/views/parts/main.php:43
+msgid "Api heslo"
+msgstr "Api heslo"
+
+#: ../admin/views/parts/main.php:47
+msgid "Název eshopu"
+msgstr "Názov eshopu"
+
+#: ../admin/views/parts/main.php:51
+msgid "Nastavení seznamu poboček"
+msgstr "Nastavenie zoznamu pobočiek"
+
+#: ../admin/views/parts/main.php:54
+msgid "Zobrazit CZ pobočky"
+msgstr "Zobraziť CZ pobočky"
+
+#: ../admin/views/parts/main.php:58
+msgid "Zobrazit SK pobočky"
+msgstr "Zobraziť SK pobočky"
+
+#: ../admin/views/parts/main.php:62
+#, fuzzy
+#| msgid "Zobrazit CZ pobočky"
+msgid "Zobrazit HU pobočky"
+msgstr "Zobraziť CZ pobočky"
+
+#: ../admin/views/parts/main.php:66
+#, fuzzy
+#| msgid "Zobrazit CZ pobočky"
+msgid "Zobrazit PL pobočky"
+msgstr "Zobraziť CZ pobočky"
+
+#: ../admin/views/parts/main.php:70
+#, fuzzy
+#| msgid "Zobrazit CZ pobočky"
+msgid "Zobrazit RO pobočky"
+msgstr "Zobraziť CZ pobočky"
+
+#: ../admin/views/parts/main.php:74
+msgid "Vypnout odesílání do zásilkovny"
+msgstr ""
+
+#: ../admin/views/parts/main.php:78
+msgid "Odeslání zásilky do systému Zásilkovny"
+msgstr "Odoslanie zásielky do systému Zásilkovna"
+
+#: ../admin/views/parts/main.php:81
+msgid "Po vytvoření objednávky na děkovné stránce"
+msgstr "Po vytvorení objednávky na ďakovnej stránke"
+
+#: ../admin/views/parts/main.php:82
+msgid "Při označení objednávky \"Zpracovává se\""
+msgstr "Pri označení objednávky \"Spracováva sa\""
+
+#: ../admin/views/parts/main.php:83
+msgid "Při označení objednávky \"Dokončená\""
+msgstr "Pri označení objednávky \"Dokončená\""
+
+#: ../admin/views/parts/main.php:88
+msgid "Doprava zdarma"
+msgstr ""
+
+#: ../admin/views/parts/main.php:91
+msgid "Zdarma budou všechny druhy dopravy"
+msgstr ""
+
+#: ../admin/views/parts/main.php:92
+msgid "Zdarma pouze dopravy Zásilkovny"
+msgstr ""
+
+#: ../admin/views/parts/main.php:93
+msgid "Doprava zdarma ve výběru dopravy"
+msgstr ""
+
+#: ../admin/views/parts/main.php:94
+msgid "Odstranit dopravu zdarma - ceny zústanou"
+msgstr ""
+
+#: ../admin/views/parts/main.php:99
+#, fuzzy
+#| msgid "Url loga Zásilkovny pro ČR"
+msgid "Url ikony Zásilkovny v pokladně"
+msgstr "Url loga Zásilkovna pre ČR"
+
+#: ../admin/views/parts/main.php:103
+#, fuzzy
+#| msgid "Url loga Zásilkovny pro ČR"
+msgid "Url ikony SK Zásilkovny v pokladně"
+msgstr "Url loga Zásilkovna pre ČR"
+
+#: ../admin/views/parts/main.php:107
+#, fuzzy
+#| msgid "Url loga Zásilkovny pro ČR"
+msgid "Url ikony HU Zásilkovny v pokladně"
+msgstr "Url loga Zásilkovna pre ČR"
+
+#: ../admin/views/parts/main.php:111
+#, fuzzy
+#| msgid "Url loga Zásilkovny pro ČR"
+msgid "Url ikony PL Zásilkovny v pokladně"
+msgstr "Url loga Zásilkovna pre ČR"
+
+#: ../admin/views/parts/main.php:115
+#, fuzzy
+#| msgid "Url loga Zásilkovny pro ČR"
+msgid "Url ikony RO Zásilkovny v pokladně"
+msgstr "Url loga Zásilkovna pre ČR"
+
+#: ../admin/views/parts/main.php:119
+msgid "Odesílat upozornění emailem o chybě vytvoření zásilky"
+msgstr ""
+
+#: ../admin/views/parts/main.php:149
+msgid "Lei"
+msgstr ""
+
+#: ../admin/views/parts/main.php:162
+#, fuzzy
+#| msgid "Nastavení cen za dopravu"
+msgid "Nastavení měn a zemí"
+msgstr "Nastavenie cien za dopravu"
+
+#: ../admin/views/parts/main.php:166
+msgid "Povolená měna"
+msgstr ""
+
+#: ../admin/views/parts/pl.php:17
+#, fuzzy
+#| msgid "Zásilkovna"
+msgid "Zásilkovna Polsko"
+msgstr "Zásielkovňa"
+
+#: ../admin/views/parts/ru.php:17
+#, fuzzy
+#| msgid "Zásilkovna titulek"
+msgid "Zásilkovna Rumunsko"
+msgstr "Zásilkovna titulok"
+
+#: ../admin/views/parts/shipping_methods.php:15
+msgid "Dopravce"
+msgstr "Dopravca"
+
+#: ../admin/views/parts/shipping_methods.php:16
+msgid "Titulek služby"
+msgstr "Titulok služby"
+
+#: ../admin/views/parts/shipping_methods.php:17
+msgid "Aktivní"
+msgstr "Aktívne"
+
+#: ../includes/class-platba-na-ucet.php:74
+msgid "Platba na účet"
+msgstr "Platba na dobierku"
+
+#: ../includes/class-platba-na-ucet.php:75
+#, fuzzy
+#| msgid "Platba na bankovní účet."
+msgid "Platby pomocí bankovního účtu."
+msgstr "Platba na bankový účet."
+
+#: ../includes/class-platba-na-ucet.php:93
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:137
+msgid "Povolit/Zakázat"
+msgstr "Povoliť/Zakázať"
+
+#: ../includes/class-platba-na-ucet.php:95
+msgid "Enable Bank Transfer"
+msgstr "Aktivovať bankový prevod"
+
+#: ../includes/class-platba-na-ucet.php:99
+#: ../includes/class-wc-gateway-dobirka.php:108
+msgid "Titulek"
+msgstr "Titulok"
+
+#: ../includes/class-platba-na-ucet.php:101
+#, fuzzy
+#| msgid "Titule, který uvidí zákazník na pokladně."
+msgid "Titulek, který uvidí zákazník na pokladně."
+msgstr "Text, ktorý zákazník uvidí na pokladně."
+
+#: ../includes/class-platba-na-ucet.php:105
+#: ../includes/class-wc-gateway-dobirka.php:115
+msgid "Popis"
+msgstr "Popis"
+
+#: ../includes/class-platba-na-ucet.php:107
+msgid "Popis platební metody zobrazené na pokladně."
+msgstr "Popis platobnej metódy, ktorý sa zobrazí zákazníkovi na stránke."
+
+#: ../includes/class-platba-na-ucet.php:108
+msgid ""
+"Platbu proveďte převodem na bankovní účet. Použijte ID objednávky pro "
+"identifikaci platby. Vaše objednávka bude odeslána po provedení platby."
+msgstr ""
+"Platbu preveďte prevodom na bankový účet. Použite ID objednávky pre "
+"identifikáciu platby. Vaša objednávka bude odoslaná po vykonaní platby."
+
+#: ../includes/class-platba-na-ucet.php:112
+#: ../includes/class-wc-gateway-dobirka.php:121
+msgid "Instrukce"
+msgstr "Inštrukcie"
+
+#: ../includes/class-platba-na-ucet.php:114
+msgid "Instrukce budou zobrazeny na děkovné stránce a pokaldně."
+msgstr "Inštrukcie, ktoré sa zobrazia na ďakovnej stránke."
+
+#: ../includes/class-platba-na-ucet.php:119
+#: ../includes/class-wc-gateway-dobirka.php:127
+msgid "Povolit způsob dopravy"
+msgstr "Povoliť spôsob dopravy"
+
+#: ../includes/class-platba-na-ucet.php:124
+#: ../includes/class-wc-gateway-dobirka.php:132
+msgid ""
+"Pokud je platba na dobírku aktivní, zde můžete definovat způsoby dopravy. "
+"Pro povolení všech způsobů dopravy, zanechte pole prázdné."
+msgstr ""
+"Ak je platba na dobierku aktívna, tu môžete definovať spôsoby dopravy. Pre "
+"povolenie všetkých spôsobov dopravy, zanechajte pole prázdne."
+
+#: ../includes/class-platba-na-ucet.php:129
+#: ../includes/class-wc-gateway-dobirka.php:137
+msgid "Povolit pro země"
+msgstr ""
+
+#: ../includes/class-platba-na-ucet.php:134
+msgid "Vyberte, pro které země bude převod dostupný."
+msgstr ""
+
+#: ../includes/class-platba-na-ucet.php:139
+#: ../includes/class-wc-gateway-dobirka.php:147
+msgid "Stav objednávky"
+msgstr ""
+
+#: ../includes/class-platba-na-ucet.php:144
+#: ../includes/class-wc-gateway-dobirka.php:152
+msgid "Stav objednávky po zaplacení."
+msgstr ""
+
+#: ../includes/class-platba-na-ucet.php:146
+#: ../includes/class-wc-gateway-dobirka.php:154
+msgid "Čeká na zaplacení"
+msgstr ""
+
+#: ../includes/class-platba-na-ucet.php:147
+#: ../includes/class-wc-gateway-dobirka.php:155
+msgid "Zpracovává se"
+msgstr ""
+
+#: ../includes/class-platba-na-ucet.php:148
+#: ../includes/class-wc-gateway-dobirka.php:156
+msgid "Dokončeno."
+msgstr ""
+
+#: ../includes/class-platba-na-ucet.php:165
+msgid "Detail účtu"
+msgstr "Detail účtu"
+
+#: ../includes/class-platba-na-ucet.php:171
+msgid "Název účtu"
+msgstr "Názov eshopu"
+
+#: ../includes/class-platba-na-ucet.php:172
+#: ../includes/class-platba-na-ucet.php:439
+msgid "Číslo účtu"
+msgstr "Číslo účtu"
+
+#: ../includes/class-platba-na-ucet.php:173
+msgid "Jméno banky"
+msgstr "Meno banky"
+
+#: ../includes/class-platba-na-ucet.php:174
+#: ../includes/class-platba-na-ucet.php:443
+msgid "Sort Code"
+msgstr ""
+
+#: ../includes/class-platba-na-ucet.php:175
+#: ../includes/class-platba-na-ucet.php:447
+msgid "IBAN"
+msgstr "IBAN"
+
+#: ../includes/class-platba-na-ucet.php:176
+msgid "BIC / Swift"
+msgstr "BIC / Swift"
+
+#: ../includes/class-platba-na-ucet.php:181
+msgid "+ Přidat účet"
+msgstr "+ Pridať účet"
+
+#: ../includes/class-platba-na-ucet.php:181
+msgid "Odstranit vybraný účet(účty)"
+msgstr "Odstrániť zvolený účet (účty)"
+
+#: ../includes/class-platba-na-ucet.php:426
+msgid "Detail bankovního účtu"
+msgstr "Detail bankového účtu"
+
+#: ../includes/class-platba-na-ucet.php:451
+msgid "BIC"
+msgstr "BIC"
+
+#: ../includes/class-platba-na-ucet.php:483
+#: ../includes/class-platba-na-ucet.php:485
+msgid "Čeká na dokončení bankovního převodu"
+msgstr "Čaká na dokončenie bankového prevodu"
+
+#: ../includes/class-wc-gateway-dobirka.php:36
+#: ../includes/class-wc-gateway-dobirka.php:37
+msgid "Dobirka"
+msgstr "Dobierka"
+
+#: ../includes/class-wc-gateway-dobirka.php:77
+msgid "Umožňuje zákazníkům platit zboží při doručení (na dobírku)."
+msgstr "Umožňuje zákazníkom platiť tovar pri doručení (na dobierku)."
+
+#: ../includes/class-wc-gateway-dobirka.php:101
+#: ../includes/class-wc-gateway-dobirka.php:102
+msgid "Povolit platbu na dobírku"
+msgstr "Povoliť platbu na dobierku"
+
+#: ../includes/class-wc-gateway-dobirka.php:110
+msgid "Název platební metody, který uvidí zákazníci při objednávce."
+msgstr "Názov platobnej metódy, ktorý vidí zákazníci pri objednávke."
+
+#: ../includes/class-wc-gateway-dobirka.php:111
+msgid "Platba na dobírku"
+msgstr "Platba na dobierku"
+
+#: ../includes/class-wc-gateway-dobirka.php:117
+msgid "Popis platební metody, který se zobrazí zákazníkovi na stránce."
+msgstr "Popis platobnej metódy, ktorý sa zobrazí zákazníkovi na stránke."
+
+#: ../includes/class-wc-gateway-dobirka.php:118
+msgid "Platba v hotovosti po doručení."
+msgstr "Platba v hotovosti po doručení."
+
+#: ../includes/class-wc-gateway-dobirka.php:123
+msgid "Instrukce, které se zobrazí na děkovné stránce."
+msgstr "Inštrukcie, ktoré sa zobrazia na ďakovnej stránke."
+
+#: ../includes/class-wc-gateway-dobirka.php:124
+msgid "Platbu proveďte až po doručení zboží."
+msgstr "Platbu vykonajte až po doručení tovaru."
+
+#: ../includes/class-wc-gateway-dobirka.php:142
+msgid "Vyberte, pro které země bude dobírka dostupná."
+msgstr ""
+
+#: ../includes/class-wc-gateway-dobirka.php:161
+#: ../includes/class-wc-gateway-dobirka.php:162
+msgid "Započítat daň?"
+msgstr ""
+
+#: ../includes/class-wc-gateway-dobirka.php:164
+msgid "Kalkulovat pro poplatek za dobírku daň?"
+msgstr ""
+
+#: ../includes/class-wc-gateway-dobirka.php:168
+#: ../includes/class-wc-gateway-dobirka.php:169
+#: ../includes/class-wc-gateway-dobirka.php:171
+msgid "Zobrazit dobírku, pokud je cena zásilky 0"
+msgstr ""
+
+#: ../includes/class-wc-gateway-dobirka.php:409
+#: ../includes/class-wc-gateway-dobirka.php:411
+msgid "Platba dobírkou."
+msgstr "Platba dobierkou."
+
+#: ../includes/class-wc-gateway-dobirka.php:421
+msgid "Zákazník vybral platbu na dobírku"
+msgstr "Zákazník vybral platbu na dobierku"
+
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:29
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:31
+#, fuzzy
+#| msgid "Odeslání zásilky do systému Zásilkovny"
+msgid "Chyba odeslání do Zásilkovny"
+msgstr "Odoslanie zásielky do systému Zásilkovna"
+
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:30
+msgid "Email s informací o chybě zásilky"
+msgstr ""
+
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:32
+msgid "Chyba odeslání do Zásilkovny z obchodu {site_title}"
+msgstr ""
+
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:126
+msgid "Plain text"
+msgstr ""
+
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:130
+msgid "HTML"
+msgstr ""
+
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:131
+msgid "Multipart"
+msgstr ""
+
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:139
+msgid "Povolit tuto emailovou notifikaci"
+msgstr ""
+
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:143
+msgid "Příjemce(ci)"
+msgstr ""
+
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:146
+#, php-format
+msgid "Vložte příjemce (oddělené čárkou) pro tento email. Výchozí je %s."
+msgstr ""
+
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:152
+msgid "Předmět emailu"
+msgstr ""
+
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:158
+msgid "Nadpis emailu"
+msgstr ""
+
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:164
+msgid "Typ emailu"
+msgstr ""
+
+#: ../includes/class-wc-zasilkovna-admin-error-info.php:166
+msgid "Zvolte, jaký formát se má odesílat."
+msgstr ""
+
+#: ../includes/class-zasilkovna-fee.php:74
+msgid "Příplatek za Dobírku"
+msgstr "Príplatok za dobierku"
+
+#: ../includes/class-zasilkovna-fee.php:159
+msgid "Pojištění zásilky"
+msgstr ""
+
+#: ../includes/class-zasilkovna-helper.php:180
+msgid "Česká pošta"
+msgstr "Česká pošta"
+
+#: ../includes/class-zasilkovna-helper.php:194
+msgid "Doručenie na adresu SR"
+msgstr "Doručenie na adresu SR"
+
+#: ../includes/class-zasilkovna-shipping.php:86
+msgid "Povolit Zásilkovnu"
+msgstr "Povoliť Zásilkovnu"
+
+#: ../includes/class-zasilkovna-shipping.php:88
+msgid "Povolit tento způsob"
+msgstr "Povoliť tento spôsob"
+
+#: ../includes/class-zasilkovna-shipping.php:92
+msgid "Název dopravce"
+msgstr "Názov dopravcu"
+
+#: ../includes/class-zasilkovna-shipping.php:98
+msgid "Zásilkovna titulek"
+msgstr "Zásilkovna titulok"
+
+#: ../includes/class-zasilkovna-shipping.php:100
+msgid "Text, který zákazník uvidí"
+msgstr "Text, ktorý zákazník uvidí"
+
+#: ../includes/class-zasilkovna-ticket.php:101
+#: ../includes/class-zasilkovna-ticket.php:115
+msgid "Zásilka nebyla uložena s chybou:"
+msgstr ""
+
+#: ../includes/emails/zasilkovna-admin-error-info-plain.php:17
+#: ../includes/emails/zasilkovna-admin-error-info.php:19
+#, php-format
+msgid "Chyba odeslání zásilky pro objednávku č.: %s"
+msgstr ""
+
+#: ../includes/emails/zasilkovna-admin-error-info-plain.php:18
+#: ../includes/emails/zasilkovna-admin-error-info.php:20
+msgid ""
+"Zásilka objednávky nebyla vložena do systému Zásilkovny, z důvodu chyby:"
+msgstr ""
+
+#: ../includes/metabox.php:12
+msgid "Nastavit nulovou cenu pro Zásilkovnu"
+msgstr ""
+
+#: ../includes/notices.php:57 ../includes/notices.php:78
+msgid "notice"
+msgstr ""
+
+#: ../includes/notices.php:58
+msgid ""
+"<strong>Pro fungování pluginu WooCommerce Zásilkovna je nutné mít "
+"nainstalovaný plugin WooCommerce.</strong>"
+msgstr ""
+
+#: ../includes/notices.php:79
+msgid ""
+"<strong>Plugin vyžaduje pro správné fungování verzi WooCommerce 3.0 a vyšší. "
+"Plugin by měl být kompatibilní i s verzí 2.6., avšak správné fungování není "
+"garantováno. Doporučujeme aktualizovat.</strong>"
+msgstr ""
+
+#: ../includes/notices.php:100 ../includes/notices.php:121
+#: ../includes/notices.php:144
+msgid "upozornění"
+msgstr ""
+
+#: ../includes/notices.php:101
+msgid ""
+"<strong>Plugin vyžaduje aktivní cURL knihovnu pro správné fungování. Prosím, "
+"kontaktujte vašeho správce serveru.</strong>"
+msgstr ""
+
+#: ../includes/notices.php:122
+msgid ""
+"<strong>Plugin vyžaduje aktivní Soap knihovnu pro správné fungování. Prosím, "
+"kontaktujte vašeho správce serveru.</strong>"
+msgstr ""
+
+#: ../includes/notices.php:145
+msgid ""
+"<strong>Plugin vyžaduje aktivaci licence pro správné fungování. Prosím, "
+"ověřte licenci v <a href=\""
+msgstr ""
+
+#: ../public/class-zasilkovna.php:351
+msgid "Prosím, vyberte pobočku."
+msgstr "Prosím, zvoľte pobočku."
+
+#: ../public/class-zasilkovna.php:413 ../public/class-zasilkovna.php:460
+msgid "Zásilkovna - místo vyzvednutí: "
+msgstr "Zásielkovna - miesto odberu: "
+
+#: ../public/class-zasilkovna.php:414 ../public/class-zasilkovna.php:463
+msgid "Název: "
+msgstr "Názov eshopu: "
+
+#: ../public/class-zasilkovna.php:416 ../public/class-zasilkovna.php:467
+msgid "Místo: "
+msgstr ""
+
+#: ../public/class-zasilkovna.php:418 ../public/class-zasilkovna.php:471
+msgid "Ulice: "
+msgstr "Ulica "
+
+#: ../public/class-zasilkovna.php:420 ../public/class-zasilkovna.php:475
+msgid "Město: "
+msgstr "Město: "
+
+#: ../public/class-zasilkovna.php:422 ../public/class-zasilkovna.php:479
+msgid "PSČ: "
+msgstr ""
+
+#: ../public/class-zasilkovna.php:424 ../public/class-zasilkovna.php:484
+#: ../public/class-zasilkovna.php:528
+msgid "Zobrazit detail místa"
+msgstr "Zobraziť detail miesta"
+
+#: ../public/class-zasilkovna.php:428 ../public/class-zasilkovna.php:489
+#: ../public/class-zasilkovna.php:536
+msgid "Sledujte zásilku online"
+msgstr "Sledujte zásielku online"
+
+#: ../public/class-zasilkovna.php:521
+msgid "Zásilkovna - místo vyzvednutí:"
+msgstr "Zásielkovna - miesto odberu:"
+
+#: ../public/class-zasilkovna.php:583
+msgid "Zvolte pobočku"
+msgstr "Zvoľte pobočku"
+
+#: ../public/class-zasilkovna.php:650 ../public/class-zasilkovna.php:655
+msgid "Prosíme, zvolte pobočku pro vybranou dopravu."
+msgstr "Prosím, zvoľte pobočku."
+
+#~ msgid "Nastavení obchodu"
+#~ msgstr "Nastavenie obchodu"
+
+#~ msgid "Nastavení dopravy"
+#~ msgstr "Nastavenia dopravy"
+
+#~ msgid "Bankovní převod"
+#~ msgstr "Bankový prevod"
+
+#~ msgid "Url loga Zásilkovny pro SK"
+#~ msgstr "Url loga Zásilkovna pre SK"
+
+#~ msgid "Doručení na adresu ČR"
+#~ msgstr "Doručenie na adresu ČR"
+
+#~ msgid "Česká republika InTime"
+#~ msgstr "Česká republika InTime"
+
+#~ msgid "Doručení na adresu ČR - podání v ČR"
+#~ msgstr "Doručenie na adresu ČR - podanie v ČR"
+
+#~ msgid "WooCommerce Stock Manager"
+#~ msgstr "WooCommerce Stock Manager"
+
+#~ msgid "Import/Export"
+#~ msgstr "Import/Export"
+
+#~ msgid "Settings"
+#~ msgstr "Nastavenie"
+
+#~ msgid "Stock manager"
+#~ msgstr "Stock manager"
+
+#~ msgid "Simple products"
+#~ msgstr "Jednoduché produkty"
+
+#~ msgid "Products with variation"
+#~ msgstr "Produkty s variantami"
+
+#~ msgid "Show"
+#~ msgstr "Zobraziť"
+
+#~ msgid "All categories"
+#~ msgstr "Všetky kategorie"
+
+#~ msgid "No manage stock"
+#~ msgstr "Nie spravovat sklad"
+
+#~ msgid "Yes manage stock"
+#~ msgstr "Áno spravovať sklad"
+
+#~ msgid "In stock"
+#~ msgstr "Skladom"
+
+#~ msgid "Out of stock"
+#~ msgstr "Nieje skladom"
+
+#~ msgid "Clear filter"
+#~ msgstr "Vyčistit filter"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "Name"
+#~ msgstr "Meno"
+
+#~ msgid "Product type"
+#~ msgstr "Typ produktu"
+
+#~ msgid "Parent ID"
+#~ msgstr "ID rodiče"
+
+#~ msgid "Manage stock"
+#~ msgstr "Spravovat sklad"
+
+#~ msgid "Stock status"
+#~ msgstr "Stav skladu"
+
+#~ msgid "Backorders"
+#~ msgstr "Objednávanie"
+
+#~ msgid "Stock"
+#~ msgstr "Skladom"
+
+#~ msgid "Show wariables"
+#~ msgstr "Zobraziť varianty"
+
+#~ msgid "Yes"
+#~ msgstr "Áno"
+
+#~ msgid "No"
+#~ msgstr "Nie"
+
+#~ msgid "Notify"
+#~ msgstr "Upozorniť"
+
+#~ msgid "Save all"
+#~ msgstr "Uložiť všetko"
+
+#~ msgid "Import"
+#~ msgstr "Importovať"
+
+#~ msgid "You can upload csv file, with your stock data. "
+#~ msgstr "Môžete nahrať váš csv súbor so skladovými dátami."
+
+#~ msgid ""
+#~ "CSV file must be in this format, or you can export file with exist data "
+#~ "and edit them. "
+#~ msgstr ""
+#~ "CSV súbor musí byť v nasledujúcom formáte, alebo si môžete vyexportovať "
+#~ "už existujúce dáta a upraviť ich."
+
+#~ msgid "File format. "
+#~ msgstr "Formát súboru."
+
+#~ msgid "Parent SKU"
+#~ msgstr "SKU rodiča"
+
+#~ msgid "111111"
+#~ msgstr "111111"
+
+#~ msgid "yes"
+#~ msgstr "yes"
+
+#~ msgid "instock"
+#~ msgstr "instock"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "simple"
+#~ msgstr "simple"

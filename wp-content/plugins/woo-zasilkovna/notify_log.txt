@@ -1,0 +1,90 @@
+Sun, 06 Jan 2019 08:51:46Send ticket: order id 
+3531
+Sun, 06 Jan 2019 09:16:21Send ticket: order id 
+3532
+Mon, 14 Jan 2019 13:01:07Send ticket: order id 
+3548
+Wed, 16 Jan 2019 12:25:13Send ticket: order id 
+3571
+Wed, 16 Jan 2019 12:29:18Send ticket: order id 
+3572
+Wed, 16 Jan 2019 14:08:08Send ticket: order id 
+3573
+Wed, 16 Jan 2019 14:16:18Send ticket: order id 
+3574
+Tue, 19 Feb 2019 10:06:07Send ticket: order id 
+3629
+Wed, 24 Jul 2019 11:30:23Send ticket: order id 
+3893
+Wed, 24 Jul 2019 11:30:23Id pobočky 
+469
+Wed, 24 Jul 2019 11:30:23Shipping id 
+zasilkovna>z-points
+Wed, 24 Jul 2019 11:30:23Odeslaná data
+
+                        <createPacket>
+                            <apiPassword>974ab4ae2cc2f8bdd5221e2bf1b7444b</apiPassword>
+                            <packetAttributes>
+                                <number>3893</number>
+                                <name>Lukas</name>
+                                <surname>Vorisek</surname>
+                                <email>lu.vorisek@gmail.com</email>
+                                <phone>739017525</phone>
+                                <street>Sipkova 1868</street>
+                                <houseNumber></houseNumber>
+                                <city>Praha 4</city>
+                                <zip>14200</zip>
+                                <currency>CZK</currency>
+                                <cod>0</cod>
+                                <addressId>469</addressId>
+                                <value>4706</value>
+                                <eshop>primaveracaffe.cz</eshop>
+                            </packetAttributes>
+                        </createPacket>
+                    
+Wed, 24 Jul 2019 11:30:23Odpověď Zásikovny
+s:187:"<?xml version="1.0" encoding="utf-8"?>
+<response><status>ok</status><result><id>3858634317</id><barcode>Z3858634317</barcode><barcodeText>Z 385 8634 317</barcodeText></result></response>
+";
+Wed, 24 Jul 2019 11:30:23Cena zásilky
+4706
+Wed, 24 Jul 2019 11:30:23Odpověď Zásikovny
+a:2:{s:6:"status";s:2:"ok";s:6:"result";a:3:{s:2:"id";s:10:"3858634317";s:7:"barcode";s:11:"Z3858634317";s:11:"barcodeText";s:14:"Z 385 8634 317";}}
+Thu, 08 Aug 2019 19:28:00Send ticket: order id 
+3898
+Thu, 08 Aug 2019 19:28:00Id pobočky 
+1465
+Thu, 08 Aug 2019 19:28:00Shipping id 
+zasilkovna>z-points
+Thu, 08 Aug 2019 19:28:00Odeslaná data
+
+                        <createPacket>
+                            <apiPassword>974ab4ae2cc2f8bdd5221e2bf1b7444b</apiPassword>
+                            <packetAttributes>
+                                <number>3898</number>
+                                <name>Martin</name>
+                                <surname>Andrle</surname>
+                                <email>ma.andrle@gmail.com</email>
+                                <phone>601576889</phone>
+                                <street>Ronkova 1832/8</street>
+                                <houseNumber></houseNumber>
+                                <city>Praha</city>
+                                <zip>18000</zip>
+                                <currency>CZK</currency>
+                                <cod>0</cod>
+                                <addressId>1465</addressId>
+                                <value>632</value>
+                                <eshop>primaveracaffe.cz</eshop>
+                            </packetAttributes>
+                        </createPacket>
+                    
+Thu, 08 Aug 2019 19:28:00Odpověď Zásikovny
+s:187:"<?xml version="1.0" encoding="utf-8"?>
+<response><status>ok</status><result><id>3245169936</id><barcode>Z3245169936</barcode><barcodeText>Z 324 5169 936</barcodeText></result></response>
+";
+Thu, 08 Aug 2019 19:28:00Cena zásilky
+632
+Thu, 08 Aug 2019 19:28:00Odpověď Zásikovny
+a:2:{s:6:"status";s:2:"ok";s:6:"result";a:3:{s:2:"id";s:10:"3245169936";s:7:"barcode";s:11:"Z3245169936";s:11:"barcodeText";s:14:"Z 324 5169 936";}}
+Wed, 14 Aug 2019 12:02:56Send ticket: order id 
+3900

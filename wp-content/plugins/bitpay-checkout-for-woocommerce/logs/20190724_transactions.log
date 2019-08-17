@@ -1,0 +1,191 @@
+
+======================NEW BITPAY INVOICE===========================
+stdClass Object
+(
+    [error] => This endpoint does not support the `public` facade
+)
+
+=================================================
+
+======================NEW BITPAY INVOICE===========================
+stdClass Object
+(
+    [error] => This endpoint does not support the `public` facade
+)
+
+=================================================
+
+======================NEW BITPAY INVOICE===========================
+stdClass Object
+(
+    [facade] => pos/invoice
+    [data] => stdClass Object
+        (
+            [url] => https://bitpay.com/invoice?id=ReMtW4c3qWKsR92Qy1vVAL
+            [status] => new
+            [price] => 348
+            [currency] => CZK
+            [orderId] => 3896
+            [invoiceTime] => 1563973452802
+            [expirationTime] => 1563974352802
+            [currentTime] => 1563973452832
+            [id] => ReMtW4c3qWKsR92Qy1vVAL
+            [lowFeeDetected] => 
+            [amountPaid] => 0
+            [exceptionStatus] => 
+            [redirectURL] => https://primaveracaffe.cz/checkout/order-received/3896/?key=wc_order_TUhdRfRAltg6f&redirect=false
+            [refundAddressRequestPending] => 
+            [buyerProvidedInfo] => stdClass Object
+                (
+                )
+
+            [paymentSubtotals] => stdClass Object
+                (
+                    [BTC] => 155700
+                    [BCH] => 5200000
+                )
+
+            [paymentTotals] => stdClass Object
+                (
+                    [BTC] => 162200
+                    [BCH] => 5200000
+                )
+
+            [paymentDisplayTotals] => stdClass Object
+                (
+                    [BTC] => 0.001622
+                    [BCH] => 0.052000
+                )
+
+            [paymentDisplaySubTotals] => stdClass Object
+                (
+                    [BTC] => 0.001557
+                    [BCH] => 0.052000
+                )
+
+            [exchangeRates] => stdClass Object
+                (
+                    [BTC] => stdClass Object
+                        (
+                            [CZK] => 223478.79565437
+                            [USD] => 9749.24294
+                            [EUR] => 8756.59951
+                            [BCH] => 33.320492634745
+                        )
+
+                    [BCH] => stdClass Object
+                        (
+                            [CZK] => 6692.3588543762
+                            [USD] => 291.95357045812
+                            [EUR] => 262.36875
+                            [BTC] => 0.029931277361309
+                        )
+
+                )
+
+            [supportedTransactionCurrencies] => stdClass Object
+                (
+                    [BTC] => stdClass Object
+                        (
+                            [enabled] => 1
+                        )
+
+                    [BCH] => stdClass Object
+                        (
+                            [enabled] => 1
+                        )
+
+                )
+
+            [minerFees] => stdClass Object
+                (
+                    [BTC] => stdClass Object
+                        (
+                            [satoshisPerByte] => 44.022
+                            [totalFee] => 6500
+                        )
+
+                    [BCH] => stdClass Object
+                        (
+                            [satoshisPerByte] => 0
+                            [totalFee] => 0
+                        )
+
+                )
+
+            [paymentCodes] => stdClass Object
+                (
+                    [BTC] => stdClass Object
+                        (
+                            [BIP72b] => bitcoin:?r=https://bitpay.com/i/ReMtW4c3qWKsR92Qy1vVAL
+                            [BIP73] => https://bitpay.com/i/ReMtW4c3qWKsR92Qy1vVAL
+                        )
+
+                    [BCH] => stdClass Object
+                        (
+                            [BIP72b] => bitcoincash:?r=https://bitpay.com/i/ReMtW4c3qWKsR92Qy1vVAL
+                            [BIP73] => https://bitpay.com/i/ReMtW4c3qWKsR92Qy1vVAL
+                        )
+
+                )
+
+            [token] => AEsFKZnBb1km9dHRFGxL1A6Urt9THNe1Qu2EV6fxXCAeUQCBDhAZcR1HdaBYRmNxQd
+        )
+
+)
+
+=================================================
+
+======================INCOMING IPN===========================
+stdClass Object
+(
+    [id] => ReMtW4c3qWKsR92Qy1vVAL
+    [url] => https://bitpay.com/invoice?id=ReMtW4c3qWKsR92Qy1vVAL
+    [status] => expired
+    [price] => 348
+    [currency] => CZK
+    [invoiceTime] => 1563973452802
+    [expirationTime] => 1563974352802
+    [currentTime] => 1563974752396
+    [exceptionStatus] => 
+    [buyerFields] => stdClass Object
+        (
+        )
+
+    [paymentSubtotals] => stdClass Object
+        (
+            [BTC] => 155700
+            [BCH] => 5200000
+        )
+
+    [paymentTotals] => stdClass Object
+        (
+            [BTC] => 162200
+            [BCH] => 5200000
+        )
+
+    [exchangeRates] => stdClass Object
+        (
+            [BTC] => stdClass Object
+                (
+                    [CZK] => 223478.79565437
+                    [USD] => 9749.24294
+                    [EUR] => 8756.59951
+                    [BCH] => 33.320492634745
+                )
+
+            [BCH] => stdClass Object
+                (
+                    [CZK] => 6692.3588543762
+                    [USD] => 291.95357045812
+                    [EUR] => 262.36875
+                    [BTC] => 0.029931277361309
+                )
+
+        )
+
+    [amountPaid] => 0
+    [orderId] => 3896
+)
+
+=================================================

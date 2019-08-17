@@ -1,0 +1,329 @@
+# Translation of Plugins - Duplicate Post - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-10 16:52:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - Duplicate Post - Stable (latest release)\n"
+
+#: duplicate-post-options.php:367
+msgid "now works on Edit screen too - check this option to use with Gutenberg enabled"
+msgstr "nyní pracuje také v editoru - zaškrtněte tuto volbu pro použití s editorem Gutenberg"
+
+#: duplicate-post-admin.php:194
+msgid "What's new in Duplicate Post version %s:"
+msgstr "Co je nového ve verzi Duplicate Post %s:"
+
+#: duplicate-post-admin.php:281
+msgid "Current user is not allowed to copy posts."
+msgstr "Aktuální uživatel nemá oprávnění kopírovat posty."
+
+#: duplicate-post-admin.php:196
+msgid "Check out the documentation"
+msgstr "Podívejte se na dokumentaci"
+
+#: duplicate-post-admin.php:197
+msgid "Serving the WordPress community since November 2007."
+msgstr "Slouží komunitě WordPressu od listopadu 2007"
+
+#. Plugin URI of the plugin
+msgid "https://duplicate-post.lopo.it/"
+msgstr "https://duplicate-post.lopo.it/"
+
+#: duplicate-post-options.php:232
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "toto chcete mít pravděpodobně vypnuté, pokud však nemáte velmi speciální požadavky"
+
+#: duplicate-post-options.php:88 duplicate-post-admin.php:654
+msgid "Documentation"
+msgstr "Dokumentace"
+
+#: duplicate-post-admin.php:197
+msgid "Help me develop the plugin and provide support by <a href=\"%s\">donating even a small sum</a>."
+msgstr "Pomozte mi tento plugin vyvíjet a poskytovat k němu podporu <a href=\"%s\">darováním byť jen symbolické částky</a>."
+
+#: duplicate-post-options.php:382
+msgid "Show update notice"
+msgstr "Zobrazit oznámení o aktualizaci"
+
+#: duplicate-post-options.php:371
+msgid "Bulk Actions"
+msgstr "Hromadné akce"
+
+#: duplicate-post-options.php:282
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Můžete použít * pro nulové nebo více alfanumerických znaků nebo podtržítka: např. pole"
+
+#: duplicate-post-options.php:241
+msgid "Menu order"
+msgstr "Aktuální pořadí"
+
+#: duplicate-post-options.php:226
+msgid "Author"
+msgstr "Autor"
+
+#: duplicate-post-options.php:223
+msgctxt "post format"
+msgid "Format"
+msgstr "Formát"
+
+#: duplicate-post-options.php:220
+msgid "Template"
+msgstr "Šablona"
+
+#: duplicate-post-options.php:217
+msgid "Featured Image"
+msgstr "Náhledový obrázek"
+
+#: duplicate-post-options.php:90
+msgid "Support Forum"
+msgstr "Fórum podpory"
+
+#: duplicate-post-options.php:84
+msgid "Donate whatever sum you choose, even just 10¢."
+msgstr "Darujte jakoukoli částku."
+
+#: duplicate-post-options.php:82
+msgid "Help me develop the plugin, add new features and improve support!"
+msgstr "Pomozte mi rozvíjet plugin, přidávat nové funkce a zlepšit podporu!"
+
+#: duplicate-post-admin.php:196
+msgid "Please <a href=\"%s\">review the settings</a> to make sure it works as you expect."
+msgstr "<a href=\"%s\">Zkontrolujte nastavení</a> a ujistěte se, že vše funguje tak, jak očekáváte."
+
+#: duplicate-post-admin.php:665
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s položka byla zkopírována."
+msgstr[1] "%s položky byly zkopírovány."
+msgstr[2] "%s položek bylo zkopírováno."
+
+#: duplicate-post-options.php:377
+msgid "You can also use the template tag duplicate_post_clone_post_link( $link, $before, $after, $id ). More info <a href=\"%s\">here</a>"
+msgstr "Můžete také použít šablonu značky duplicate_post_clone_post_link( $link, $before, $after, $id ). Více info <a href=\"%s\">zde</a>"
+
+#: duplicate-post-options.php:350 duplicate-post-options.php:376
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements"
+msgstr "Zda jsou odkazy zobrazeny pro vlastní typy příspěvků registrovaných šablonami, nebo jestli pluginy závisí na jejich použití běžných prvků uživatelského rozhraní WordPressu"
+
+#: duplicate-post-options.php:349
+msgid "Select the post types you want the plugin to be enabled"
+msgstr "Vyberte typy příspěvků pro které chcete mít plugin aktivní"
+
+#: duplicate-post-options.php:340
+msgid "Enable for these post types"
+msgstr "Povolit pro tyto typy příspěvků"
+
+#: duplicate-post-options.php:334
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors"
+msgstr "Neoprávnění uživatelé a návštěvníci budou moci vidět hesla a obsahy příspěvků chráněných heslem."
+
+#: duplicate-post-options.php:289
+msgid "Show/hide private taxonomies"
+msgstr "Zobrazit/skrýt soukromé taxonomie"
+
+#: duplicate-post-options.php:271
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Přidejte toto číslo k původnímu pořadí menu (prázdné nebo nula pro zachování hodnoty)"
+
+#: duplicate-post-options.php:266
+msgid "Increase menu order by"
+msgstr "Zvýšit pořadí menu o"
+
+#: duplicate-post-options.php:238
+msgid "except pingbacks and trackbacks"
+msgstr "kromě pingbacků a trackbacků"
+
+#: duplicate-post-options.php:238
+msgid "Comments"
+msgstr "Komentáře"
+
+#: duplicate-post-options.php:235
+msgid "Children"
+msgstr "Potomek"
+
+#: duplicate-post-options.php:232
+msgid "Attachments"
+msgstr "Přílohy"
+
+#: duplicate-post-options.php:229
+msgid "Password"
+msgstr "Heslo"
+
+#: duplicate-post-options.php:214
+msgid "Content"
+msgstr "Obsah"
+
+#: duplicate-post-options.php:211
+msgid "Excerpt"
+msgstr "Stručný obsah"
+
+#: duplicate-post-options.php:208
+msgid "Slug"
+msgstr "Název v URL"
+
+#: duplicate-post-options.php:205
+msgid "Status"
+msgstr "Aktualita"
+
+#: duplicate-post-options.php:202
+msgid "Date"
+msgstr "Datum"
+
+#: duplicate-post-options.php:199
+msgid "Title"
+msgstr "Název"
+
+#: duplicate-post-options.php:195
+msgid "Post/page elements to copy"
+msgstr ""
+"Části příspěvků/stránek, které\n"
+"se budou kopírovat"
+
+#: duplicate-post-options.php:187
+msgid "Display"
+msgstr "Zobrazení"
+
+#: duplicate-post-options.php:185
+msgid "Permissions"
+msgstr "Oprávnění"
+
+#: duplicate-post-options.php:183
+msgid "What to copy"
+msgstr "Co kopírovat"
+
+#: duplicate-post-admin.php:561
+msgid "Untitled"
+msgstr "Bez názvu"
+
+#: duplicate-post-admin.php:542
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Kopírování toho typu příspěvku není povoleno v nastavení"
+
+#: duplicate-post-admin.php:200
+msgid "Dismiss this notice."
+msgstr "Skrýt toto upozornění."
+
+#. Author URI of the plugin
+msgid "https://lopo.it"
+msgstr "https://lopo.it"
+
+#. Author of the plugin
+msgid "Enrico Battocchi"
+msgstr "Enrico Battocchi"
+
+#. Description of the plugin
+msgid "Clone posts and pages."
+msgstr "Klonuje příspěvky a stránky."
+
+#: duplicate-post.php:49
+msgid "Settings"
+msgstr "Nastavení"
+
+#: duplicate-post-options.php:392
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: duplicate-post-options.php:367
+msgid "Admin bar"
+msgstr "Administrátorském panelu"
+
+#: duplicate-post-options.php:365
+msgid "Edit screen"
+msgstr "Stránce úprav"
+
+#: duplicate-post-options.php:363
+msgid "Post list"
+msgstr "Seznamu příspěvků"
+
+#: duplicate-post-options.php:359
+msgid "Show links in"
+msgstr "Zobrazit odkazy v"
+
+#: duplicate-post-options.php:333
+msgid "Warning: users will be able to copy all posts, even those of other users"
+msgstr "Varování: Uživatelé budou moci kopírovat veškeré píspěvky, i ty od ostatních uživatelů"
+
+#: duplicate-post-options.php:316
+msgid "Roles allowed to copy"
+msgstr "Kdo může kopírovat"
+
+#: duplicate-post-options.php:261
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Přípona která bude přidána po názvu, např. \"(dup)\" (nepovinné)"
+
+#: duplicate-post-options.php:256
+msgid "Title suffix"
+msgstr "Přípona titulku"
+
+#: duplicate-post-options.php:251
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Předpona která bude přidána před název, např. \"Kopie\" (nepovinné)"
+
+#: duplicate-post-options.php:246
+msgid "Title prefix"
+msgstr "Předpona názvu"
+
+#: duplicate-post-options.php:306
+msgid "Select the taxonomies you don't want to be copied"
+msgstr "Vyberte taxonomie, které nechcete zkopírovat"
+
+#: duplicate-post-options.php:287
+msgid "Do not copy these taxonomies"
+msgstr "Nekopírovat tyto taxonomie"
+
+#: duplicate-post-options.php:281
+msgid "Comma-separated list of meta fields that must not be copied"
+msgstr "Čárkami oddělený seznam metadat, které nesmí být zkopírovány"
+
+#: duplicate-post-options.php:276
+msgid "Do not copy these fields"
+msgstr "Nekopírovat tyto uživatelská pole"
+
+#. Plugin Name of the plugin
+#: duplicate-post-options.php:46
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: duplicate-post-options.php:46 duplicate-post-options.php:76
+msgid "Duplicate Post Options"
+msgstr "Možnosti duplikace příspěvku"
+
+#: duplicate-post-options.php:89
+msgid "Translate"
+msgstr "Přeložit"
+
+#: duplicate-post-admin.php:655
+msgid "Donate"
+msgstr "Přispět"
+
+#: duplicate-post-admin.php:325
+msgid "Copy creation failed, could not find original:"
+msgstr "Vytvoření kopie selhalo, nemohu nalézt originál:"
+
+#: duplicate-post-admin.php:285
+msgid "No post to duplicate has been supplied!"
+msgstr "Nebyl poskytnut příspěvek k duplikování!"
+
+#: duplicate-post-admin.php:238
+msgid "New Draft"
+msgstr "Nový koncept"
+
+#: duplicate-post-common.php:78 duplicate-post-common.php:81
+#: duplicate-post-common.php:115 duplicate-post-common.php:127
+#: duplicate-post-admin.php:237 duplicate-post-admin.php:254
+msgid "Copy to a new draft"
+msgstr "Kopírovat jako koncept"
+
+#: duplicate-post-admin.php:235 duplicate-post-admin.php:689
+msgid "Clone"
+msgstr "Duplikovat"
+
+#: duplicate-post-admin.php:234
+msgid "Clone this item"
+msgstr "Klonovat tuto položku"
