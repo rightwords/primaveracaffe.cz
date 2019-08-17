@@ -20,6 +20,7 @@
 	<meta name="format-detection" content="telephone=no">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+        <meta name="robots" content="noindex">
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
