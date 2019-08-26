@@ -99,7 +99,7 @@ add_theme_support( 'title-tag' );
 		), $config);
 
 	}
-	add_action( 'tgmpa_register', 'coffeeking_action_theme_register_required_plugins' );
+	//add_action( 'tgmpa_register', 'coffeeking_action_theme_register_required_plugins' );
 }
 
 /**
@@ -754,3 +754,10 @@ add_filter( 'woocommerce_terms_is_checked_default', '__return_true' );
 /** Disable Ajax Call from WooCommerce */
 add_action( 'wp_enqueue_scripts', 'dequeue_woocommerce_cart_fragments', 11); 
 function dequeue_woocommerce_cart_fragments() { if (is_front_page()) wp_dequeue_script('wc-cart-fragments'); }
+
+function remove_core_updates(){
+global $wp_version;return(object) array('last_checked'=> time(),'version_checked'=> $wp_version,);
+}
+add_filter('pre_site_transient_update_core','remove_core_updates');
+add_filter('pre_site_transient_update_plugins','remove_core_updates');
+add_filter('pre_site_transient_update_themes','remove_core_updates');

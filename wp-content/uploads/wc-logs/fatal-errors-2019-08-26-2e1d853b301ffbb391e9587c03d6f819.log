@@ -1,0 +1,10 @@
+2019-08-26T15:40:38+00:00 CRITICAL Uncaught Error: Call to undefined function fw_get_db_settings_option() in /home/www/primaveracaffe.cz/wp-content/plugins/like-themes-plugins/shortcodes/products/view.php:97
+Stack trace:
+#0 /home/www/primaveracaffe.cz/wp-content/plugins/like-themes-plugins/shortcodes/shortcodes.php(457): include()
+#1 /home/www/primaveracaffe.cz/wp-content/plugins/like-themes-plugins/shortcodes/products/products.php(74): like_sc_output('products', Array, '')
+#2 /home/www/primaveracaffe.cz/wp-includes/shortcodes.php(325): like_sc_products(Array, '', 'like_sc_product...')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/www/primaveracaffe.cz/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(like_s...', 'do_shortcode_ta...', '[like_sc_empty_...')
+#5 /home/www/primaveracaffe.cz/wp-content/plugins/js_composer/include/helpers/helpers.php(236): do_shortcode('[like_sc_empty_...')
+#6 /home/www/primaveracaffe.cz/wp-content/plugins/js_composer/include/templates/shortcodes/vc_column.php(93): wpb_js_remove_wpautop(' v /home/www/primaveracaffe.cz/wp-content/plugins/like-themes-plugins/shortcodes/products/view.php na řádku 97
+
