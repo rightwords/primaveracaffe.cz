@@ -3560,6 +3560,10 @@ hr.lg {
     font-size: 48px !important;
   }
 }
+#content-sidebar .filtrSideBarNaseKava h3 { 
+  font-size: 26px;
+  padding-bottom: 8px;
+}
 /*
     6.Theme Sections
 */
