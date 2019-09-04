@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b7649bf-746f-4777-8b26-374dae6fcbe2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/coffeeking/tmpl/content-item.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/coffeeking/tmpl/content-item.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/coffeeking/inc/theme-style/color-gray.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/coffeeking/inc/theme-style/color-gray.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/coffeeking/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/coffeeking/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +31,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/coffeeking/tmpl/content-item.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
+            <state relative-caret-position="390">
               <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coffeeking/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="5065" selection-start-line="5065" selection-end-line="5065" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/cache/critical-css/1/events.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15821" selection-start-column="15821" selection-end-column="15821" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coffeeking/inc/theme-style/color-gray.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/coffeeking/inc/theme-style/color-black.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="121" column="24" lean-forward="true" selection-start-line="121" selection-start-column="24" selection-end-line="121" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -45,7 +82,12 @@
     <findStrings>
       <find>class=&quot;blog</find>
       <find>class=&quot;blog-info</find>
+      <find>csss</find>
+      <find>#f6f6f6</find>
       <find>blog-info</find>
+      <find>.blog article .blog-info,</find>
+      <find>.blog article .blog-info</find>
+      <find>.blog-info</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -59,6 +101,8 @@
       <list>
         <option value="$PROJECT_DIR$/wp-content/plugins/like-themes-plugins/shortcodes/blog/view.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/coffeeking/tmpl/content-item.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coffeeking/inc/theme-style/color-gray.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/coffeeking/style.css" />
       </list>
     </option>
   </component>
@@ -113,10 +157,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -141,12 +187,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567610701003</updated>
-      <workItem from="1567610702158" duration="773000" />
+      <workItem from="1567610702158" duration="1694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="773000" />
+    <option name="totallyTimeSpent" value="1694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1004" extended-state="6" />
@@ -193,8 +239,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/coffeeking/tmpl/content-item.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
+        <state relative-caret-position="390">
           <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/cache/critical-css/1/events.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15821" selection-start-column="15821" selection-end-column="15821" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coffeeking/inc/theme-style/color-gray.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coffeeking/inc/theme-style/color-black.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="121" column="24" lean-forward="true" selection-start-line="121" selection-start-column="24" selection-end-line="121" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/coffeeking/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="5065" selection-start-line="5065" selection-end-line="5065" />
         </state>
       </provider>
     </entry>

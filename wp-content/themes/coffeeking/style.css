@@ -4993,9 +4993,6 @@ footer .go-top:hover {
 .blog article .description .text {
   margin-bottom: 10px;
 }
-.blog article .blog-info {
-  background: #F6F6F6;
-}
 .blog article .blog-info .cat {
   display: block;
   text-align: right;
@@ -5065,9 +5062,7 @@ body.body-black-dark .blog article .blog-info:hover .date-day {
 }
 .blog-info {
   display: block;
-  padding: 17px 30px 15px;
-  margin-top: 35px;
-  background: #F6F6F6;
+  padding: 17px 0 15px;
 }
 .blog-info .date-day,
 .blog-info .date-my {
