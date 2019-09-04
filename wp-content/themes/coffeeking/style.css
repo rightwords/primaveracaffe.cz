@@ -5062,6 +5062,7 @@ body.body-black-dark .blog article .blog-info:hover .date-day {
 .blog-info {
   display: block;
   padding: 17px 0 15px;
+  margin-bottom: 15px;
 }
 .blog-info .date-day,
 .blog-info .date-my {
