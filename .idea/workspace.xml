@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b7649bf-746f-4777-8b26-374dae6fcbe2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/coffeeking/inc/theme-style/color-gray.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/coffeeking/inc/theme-style/color-gray.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/coffeeking/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/coffeeking/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/coffeeking/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="5065" selection-start-line="5065" selection-end-line="5065" />
+            <state relative-caret-position="320">
+              <caret line="4969" selection-start-line="4969" selection-end-line="4969" />
             </state>
           </provider>
         </entry>
@@ -187,12 +186,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567610701003</updated>
-      <workItem from="1567610702158" duration="1694000" />
+      <workItem from="1567610702158" duration="1759000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1694000" />
+    <option name="totallyTimeSpent" value="1759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1004" extended-state="6" />
@@ -267,8 +266,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/coffeeking/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="5065" selection-start-line="5065" selection-end-line="5065" />
+        <state relative-caret-position="320">
+          <caret line="4969" selection-start-line="4969" selection-end-line="4969" />
         </state>
       </provider>
     </entry>

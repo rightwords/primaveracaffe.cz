@@ -4967,7 +4967,6 @@ footer .go-top:hover {
 }
 .blog article .header > * {
   transition: all .3s ease;
-  height: 110px;
 }
 .blog article .header:hover h3 {
   color: #242424;
