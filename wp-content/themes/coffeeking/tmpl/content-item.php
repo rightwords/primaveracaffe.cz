@@ -11,7 +11,6 @@
 	        <?php echo the_post_thumbnail(); ?>    
 	    </a>
 	    <div class="description">
-	        <a href="<?php esc_url( the_permalink() ); ?>" class="header"><h3><?php the_title(); ?></h3></a>
             <a href="<?php esc_url( the_permalink() ); ?>" class="blog-info">
                 <?php
                 echo '<span class="date-day">'.get_the_date('d').'</span><span class="date-my">'.get_the_date('F').'<br>'.get_the_date('Y').'</span>';
@@ -31,6 +30,7 @@
                 }
                 ?>
             </a>
+	        <a href="<?php esc_url( the_permalink() ); ?>" class="header"><h3><?php the_title(); ?></h3></a>
 	        <div class="text text-page margin-bottom-0">
 			<?php if ( is_search() ) : ?> 
 				<?php
