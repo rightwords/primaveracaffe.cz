@@ -71,7 +71,7 @@ if ( $navbar_layout != 'disabled' ):
 				</div>
 			<?php endif; ?>
 			<div id="navbar" class="navbar-collapse collapse">
-				<small class="headertopcontact"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;obchod@primaveracaffe.cz&nbsp;&nbsp;<i class="fa fa-mobile" aria-hidden="true"></i>&nbsp;608 951 603</small>
+				<small class="headertopcontact"><i class="fa fa-envelope-o" aria-hidden="true"></i>&nbsp;&nbsp;obchod@primaveracaffe.cz&nbsp;&nbsp;<i class="fa fa-mobile" aria-hidden="true"></i>&nbsp;774 523 264</small>
 				<div class="toggle-wrap">
 					<button type="button" class="navbar-toggle collapsed">
 						<span class="sr-only"><?php echo esc_html__( 'Toggle navigation', 'coffeeking' ); ?></span>
