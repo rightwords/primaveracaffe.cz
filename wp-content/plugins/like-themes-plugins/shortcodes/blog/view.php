@@ -67,7 +67,7 @@ if ( $query->have_posts() ) {
 			    <a href="<?php esc_url( the_permalink() ); ?>" class="blog-info">
 					<?php
 
-						echo '<span class="date-day">'.get_the_date('d').'</span><span class="date-my">'.get_the_date('F').'<br>'.get_the_date('Y').'</span>';
+						//echo '<span class="date-day">'.get_the_date('d').'</span><span class="date-my">'.get_the_date('F').'<br>'.get_the_date('Y').'</span>';
 
 		            	if ( ! post_password_required() && ( comments_open() || get_comments_number() ) ) {
 
