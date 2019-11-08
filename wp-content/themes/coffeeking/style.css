@@ -3560,15 +3560,19 @@ hr.lg {
     font-size: 48px !important;
   }
 }
-#content-sidebar .filtrSideBarNaseKava h3 { 
+#content-sidebar .filtrSideBarNaseKava h3,
+#content-sidebar.widget-area .widget-area aside h3 { 
   font-size: 26px;
   padding-bottom: 8px;
 }
-#content-sidebar .berocket_search_box_button {
-  margin: 60px 30px 30px 30px;
+.content-sidebar .berocket_search_box_button {
+  margin: 0 30px;
+}
+.content-sidebar.widget-area {
+  padding: 65px 0px;
 }
 /*
-    6.Theme Sections
+ 6.Theme Sections
 */
 @keyframes flowing {
   0% {
@@ -4963,7 +4967,6 @@ footer .go-top:hover {
 }
 .blog article .header > * {
   transition: all .3s ease;
-  height: 110px;
 }
 .blog article .header:hover h3 {
   color: #242424;
@@ -4988,9 +4991,6 @@ footer .go-top:hover {
 }
 .blog article .description .text {
   margin-bottom: 10px;
-}
-.blog article .blog-info {
-  background: #F6F6F6;
 }
 .blog article .blog-info .cat {
   display: block;
@@ -5061,9 +5061,8 @@ body.body-black-dark .blog article .blog-info:hover .date-day {
 }
 .blog-info {
   display: block;
-  padding: 17px 30px 15px;
-  margin-top: 35px;
-  background: #F6F6F6;
+  padding: 17px 0 15px;
+  margin-bottom: 15px;
 }
 .blog-info .date-day,
 .blog-info .date-my {

@@ -35,8 +35,6 @@ $theme_style .= "
 .testimonials,
 .woocommerce-MyAccount-navigation,
 .widget-area,
-.blog article .blog-info,
-.blog-info,
 .events-list .date,
 .woocommerce-product-search,
 .wp-searchform,form.post-password-form,form.search-form,form.wpcf7-form,form.form,form.comment-form,form,
