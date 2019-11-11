@@ -27,7 +27,7 @@
 	    ?>
 	    <div class="blog-info">
 			<?php
-				echo '<span class="date-day">'.get_the_date('d').'</span><span class="date-my">'.get_the_date('F').'<br>'.get_the_date('Y').'</span>';
+				echo '<div style="margin-top: 35px;"><span class="date-day">'.get_the_date('d').'</span><span class="date-my">'.get_the_date('F').'<br>'.get_the_date('Y').'</span></div>';
 
             	if ( ! post_password_required() && ( comments_open() || get_comments_number() ) ) {
 
